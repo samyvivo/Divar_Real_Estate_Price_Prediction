@@ -3,4 +3,5 @@ pandas
 joblib
 pydeck
 scikit-learn
+category_encoders
 numpy
