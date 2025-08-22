@@ -2,9 +2,11 @@ streamlit
 pandas
 joblib
 pydeck
+catboost
 scikit-learn==1.6.1
 category_encoders
 numpy
+
 
 
 
