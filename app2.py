@@ -188,5 +188,6 @@ input_df = pd.DataFrame({
 
 # ===== Predict =====
 if st.button("💰 پیش‌بینی قیمت"):
-    pred = model.predict(input_df)[0] * 90000
+    pred = model.predict(input_df)[0] * 98000
     st.success(f"💵 قیمت تقریبی: {pred:,.0f} تومان")
+
