@@ -3,6 +3,10 @@
 A machine learning project that predicts **housing prices in Tehran** based on property features and location.  
 Includes a **Streamlit web app** for interactive predictions and a Jupyter Notebook for model training.  
 
+Live app Demo (en) : 
+
+Live app Demo (fa) : 
+
 ---
 
 ## 📌 Features  
@@ -48,6 +52,8 @@ Divar_Real_Estate_Price_Prediction/
 │── coords.pkl                 # Coordinates of addresses
 ```
 
+---
+
 🖥️ Streamlit App Preview
 
 • Input property details: Area, Rooms, Parking, Warehouse, Elevator, Address
@@ -56,6 +62,7 @@ Divar_Real_Estate_Price_Prediction/
 
 • Predicted housing price displayed in a styled card
 
+---
 
 📊 Model Training (Notebook)
 
@@ -69,6 +76,8 @@ Divar_Real_Estate_Price_Prediction/
 
 • Saving the best model with joblib
 
+---
+
 🛠️ Built With
 
 • Streamlit - Web app framework
@@ -79,12 +88,17 @@ Divar_Real_Estate_Price_Prediction/
 
 • PyDeck - Map visualization
 
+---
+
 📌 Future Improvements
+
 • Deploy on Streamlit Cloud / Hugging Face Spaces
 
 • Add more location-based features (nearby metro, amenities)
 
 • Experiment with advanced ML models (XGBoost, LightGBM, CatBoost)
+
+---
 
 👤 Author
 Saman Zeitounian
