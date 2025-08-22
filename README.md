@@ -52,7 +52,9 @@ Divar_Real_Estate_Price_Prediction/
 
 Saman Zeitounian
 
-LinkedIn : linkedin.com/in/saman-zeitounian-56a0a5164
+• Email: [armannew73@gmail.com]
+
+• LinkedIn : [linkedin.com/in/saman-zeitounian-56a0a5164](https://www.linkedin.com/in/saman-zeitounian-56a0a5164/)
 
 GitHub : https://github.com/samyvivo
 
