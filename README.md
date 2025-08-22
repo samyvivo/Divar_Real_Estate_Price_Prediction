@@ -1,4 +1,4 @@
-# 🏠 Tehran Real Estate Price Prediction  
+# 🏠 Tehran Real Estate House Price Prediction  
 
 A machine learning project that predicts **housing prices in Tehran** based on property features and location.  
 Includes a **Streamlit web app** for interactive predictions and a Jupyter Notebook for model training.  
