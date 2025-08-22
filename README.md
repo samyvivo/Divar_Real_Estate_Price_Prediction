@@ -20,8 +20,37 @@ Includes a **Streamlit web app** for interactive predictions and a Jupyter Noteb
 git clone https://github.com/samyvivo/Real_Estate_Price_Prediction.git
 cd Divar_Real_Estate_Price_Prediction
 
-Install Dependencies
 
+##Install Dependencies
+pip install -r requirements.txt
+
+##Run the App
 streamlit run app.py
 
-streamlit run app.py
+
+👉 The app will be available at: http://localhost:8501
+
+Divar_Real_Estate_Price_Prediction/
+│── app.py                     # Streamlit web app
+│── House_Price_Prediction.ipynb # Jupyter notebook
+│── requirements.txt           # Dependencies
+│── best_model.pkl             # Trained ML model
+│── address_freq.pkl           # Address frequency data
+│── coords.pkl                 # Coordinates of addresses
+
+
+👤 Author
+
+Saman Zeitounian
+
+LinkedIn
+
+GitHub
+
+Kaggle
+
+### 3️⃣ Push It to GitHub  
+```bash
+git add README.md
+git commit -m "Add professional README"
+git push origin main
