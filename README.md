@@ -1,4 +1,4 @@
-# 🏠 Divar Real Estate Price Prediction  
+# 🏠 Real Estate Price Prediction  
 
 A machine learning project that predicts **housing prices in Tehran** based on property features and location.  
 Includes a **Streamlit web app** for interactive predictions and a Jupyter Notebook for model training.  
