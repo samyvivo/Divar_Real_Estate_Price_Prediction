@@ -28,16 +28,20 @@ Price prediction card with styled UI
 Getting Started
 
 1️⃣ Clone the Repository
+
 git clone https://github.com/samyvivo/Divar_Real_Estate_Price_Prediction.git
 cd Divar_Real_Estate_Price_Prediction
 
 2️⃣ Install Dependencies
+
 pip install -r requirements.txt
 
 3️⃣ Run the Streamlit App
+
 streamlit run app.py
 
 The app will launch in your browser at:
+
 👉 http://localhost:8501
 
 Divar_Real_Estate_Price_Prediction/
