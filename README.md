@@ -48,13 +48,34 @@ Divar_Real_Estate_Price_Prediction/
 │── coords.pkl                 # Coordinates of addresses
 ```
 
+🖥️ Streamlit App Preview
+
+• Input property details: Area, Rooms, Parking, Warehouse, Elevator, Address
+• Map of Tehran addresses
+• Predicted housing price displayed in a styled card
+
+📊 Model Training (Notebook)
+• The notebook House_Price_Prediction.ipynb contains:
+• Data cleaning and preprocessing
+• Feature engineering (address frequency, geolocation)
+• Model comparison and selection
+• Saving the best model with joblib
+
+🛠️ Built With
+
+• Streamlit - Web app framework
+• Pandas - Data manipulation
+• Scikit-learn - Machine learning
+• PyDeck - Map visualization
+
+📌 Future Improvements
+• Deploy on Streamlit Cloud / Hugging Face Spaces
+• Add more location-based features (nearby metro, amenities)
+• Experiment with advanced ML models (XGBoost, LightGBM, CatBoost)
+
 👤 Author
-
 Saman Zeitounian
-
 • Email: [samanzeitounian@gmail.com]
-
 • LinkedIn : [linkedin.com/in/saman-zeitounian-56a0a5164](https://www.linkedin.com/in/saman-zeitounian-56a0a5164/)
-
 • GitHub : https://github.com/samyvivo
 
