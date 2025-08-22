@@ -15,21 +15,30 @@ Includes a **Streamlit web app** for interactive predictions and a Jupyter Noteb
 
 ## 🚀 Getting Started  
 
-### Clone the Repository  
+### Installation
+
+1. Clone the Repository:
 ```bash
-git clone https://github.com/samyvivo/Real_Estate_Price_Prediction.git
+git clone https://github.com/samyvivo/Real_Estate_Price_Prediction.git 
+```
+
+2. Navigate to the Project Directory
+```bash
 cd Divar_Real_Estate_Price_Prediction
+```
 
-
-##Install Dependencies
+3. Install Dependencies
+```bash
 pip install -r requirements.txt
+```
 
-##Run the App
+4. Run the App
+```bash
 streamlit run app.py
-
+```
 
 👉 The app will be available at: http://localhost:8501
-
+```bash
 Divar_Real_Estate_Price_Prediction/
 │── app.py                     # Streamlit web app
 │── House_Price_Prediction.ipynb # Jupyter notebook
@@ -37,20 +46,13 @@ Divar_Real_Estate_Price_Prediction/
 │── best_model.pkl             # Trained ML model
 │── address_freq.pkl           # Address frequency data
 │── coords.pkl                 # Coordinates of addresses
-
+```
 
 👤 Author
 
 Saman Zeitounian
 
-LinkedIn
+LinkedIn : linkedin.com/in/saman-zeitounian-56a0a5164
 
-GitHub
+GitHub : https://github.com/samyvivo
 
-Kaggle
-
-### 3️⃣ Push It to GitHub  
-```bash
-git add README.md
-git commit -m "Add professional README"
-git push origin main
